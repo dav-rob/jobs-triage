@@ -1,0 +1,13 @@
+Title: Engineering Manager - Technical Delivery
+Company: Just Group
+URL: https://restless.co.uk/job/just-group-remote-engineering-manager-technical-delivery-london-81e66ce4e9c010014c7f1b71f4690000-london/
+AI-accessible URLs:
+- https://www.bebee.com
+- https://www.studysmarter.co.uk
+
+Summary:
+Just Group is a FTSE 250 financial services company focused on retirement income (stuff like annuities and care funding). They need to build more reliable and scalable software to support their business, which means they're looking to clean up technical debt and phase out old legacy systems. They want a hands-on manager who can lead an engineering team, run agile sprints, and coordinate resources. The advert mentions "technical excellence" and "scalable solutions," which is standard corporate-speak, but it's pretty grounded overall, focusing heavily on Microsoft tech (.NET and Azure) and the practicalities of delivery management.
+
+They are looking for a hybrid leader—someone who is senior enough to mentor engineers, run design sessions, and manage stakeholders, but still "close to the code" with strong technical skills. Day-to-day, you’ll be balancing technical guidance (design reviews, debugging, architectural standards) with delivery tasks like sprint planning, managing capacity, and identifying delivery risks. A potential catch is the working model: while advertised as remote on some aggregators, the company typically expects a 50% hybrid split in their London office.
+
+If you like systems thinking and enjoy the puzzle of modernizing enterprise architectures within a structured corporate environment, you'll probably find this interesting. However, if you're a free-wheeling independent thinker who dislikes corporate processes, reporting, and hybrid office requirements, the regulated financial services environment will likely feel a bit restrictive.

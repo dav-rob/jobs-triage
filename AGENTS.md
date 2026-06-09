@@ -44,22 +44,34 @@ The ideal candidate appears to be somebody who has spent years navigating messy 
 
 My sense is that this is a relatively ordinary professional environment rather than a startup trying to change the world. Some management-speak is present but not excessive.”
 
-For your summary, create a new .txt file in the summaries folder, with a header like this:
+For your summary, create a new .txt file in the summaries folder.
+
+The title of the file should be:
+job title - company.txt
+
+The file MUST start with a header formatted exactly like this:
 
 Title: Lead Solution Architect
 Company: Civil Service
 URL: https://...
+[Include only if main URL is blocked]
+AI-accessible URLs:
+- https://...
 
 Summary:
+... (Your 2-3 paragraph summary here)
 
-... (As above)
+Do not include salary information, as it has already been filtered.
 
+If you cannot read the main URL directly (e.g., if it blocks AIs with a 403 error or fails to load) but you locate the job details elsewhere (e.g., via web search on other sites), you MUST add the "AI-accessible URLs:" field directly below the "URL:" field. Under it, list the URLs or domains you actually used to retrieve the job details, formatted as a bulleted list.
 
-Do not include salary information, I have already filtered for that. 
+Example Header when the main URL is blocked:
+Title: Engineering Manager - Technical Delivery
+Company: Just Group
+URL: https://restless.co.uk/job/...
+AI-accessible URLs:
+- https://www.bebee.com/...
+- https://www.studysmarter.co.uk/...
 
-The title of the file should be job title - company.txt
-
-If you cannot read the URL, because it blocks AIs or something similar, but you find the job elsewhere then add another field below the URL field:
-
-AI-accessible URL: 
-
+Summary:
+...

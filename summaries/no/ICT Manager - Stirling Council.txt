@@ -1,6 +1,8 @@
 Title: ICT Manager
 Company: Stirling Council
 URL: https://restless.co.uk/job/stirling-council-remote-ict-manager-102046-stirling-472386/
+AI-accessible URLs:
+- https://www.myjobscotland.gov.uk
 
 Summary:
 This is Stirling Council, the local authority in Scotland responsible for keeping the lights on, collecting bins, running schools, and managing housing in the Stirling area. They've got a massive estate of systems and are trying to modernize their IT infrastructure—shifting to hybrid cloud and SaaS, tightening security with Zero Trust, and theoretically playing around with AI and IoT. In reality, they need someone to herd the cats, manage a public sector IT team, and deliver a strategic technology roadmap without blowing their budgets. The advert has the usual aspirational tech buzzwords about "smart services" and "visionary leadership," but it's grounded by the requirement for enterprise governance frameworks like ITIL and COBIT, which means they want someone who appreciates structure and compliance.
