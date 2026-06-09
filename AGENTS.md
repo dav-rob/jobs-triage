@@ -48,6 +48,22 @@ My sense is that this is a relatively ordinary professional environment rather t
 
 ---
 
+## Batch mode (no URL in the prompt)
+
+If I don't give you a URL in my message, check for a file at:
+
+./job-urls.txt
+
+If the file exists and contains URLs, process them one at a time:
+1. Take the first URL in the file.
+2. Follow the normal workflow below to produce a summary file.
+3. Once the summary file is saved, delete that URL from job-urls.txt.
+4. Move on to the next URL and repeat until the file is empty.
+
+If the file doesn't exist or is empty, let me know and stop.
+
+---
+
 ## Getting the job description
 
 Try to read the URL directly. If it works, use that.
