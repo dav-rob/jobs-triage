@@ -1,10 +1,10 @@
-Read the job advert and explain it to me as though we’re chatting in a pub.
+Read the job advert and explain it to me as though we're chatting in a pub.
 
 Tell me:
 
-• what the company appears to do (and provide a little background if it isn’t obvious from the advert)
+• what the company appears to do (and provide a little background if it isn't obvious from the advert)
 
-• what problem they’re actually trying to solve
+• what problem they're actually trying to solve
 
 • what kind of person they really seem to want
 
@@ -18,7 +18,7 @@ Tell me:
 
 • whether somebody who values independent thinking, systems thinking, curiosity, and good judgement would likely thrive or become frustrated there
 
-Don’t rewrite the advert.
+Don't rewrite the advert.
 
 Translate it into ordinary English.
 
@@ -36,42 +36,54 @@ Do not assume the company is healthy or unhealthy. Explain what evidence you are
 
 I am not trying to decide whether the company is good or bad. I am trying to understand what sort of environment it actually is and what sort of person is likely to succeed there.
 
+The tone of the summary is the most important thing. Everything else is secondary.
+
 Example style:
 
-“This looks like a medium-sized insurance company trying to modernise a legacy estate. They want someone senior enough to make architectural decisions but practical enough not to disappear into PowerPoint. The advert contains the usual ‘fast-paced environment’ language but doesn’t feel particularly cultish. The tone is fairly grounded and they seem mainly worried about integrating a lot of existing systems rather than building something radically new.
+"This looks like a medium-sized insurance company trying to modernise a legacy estate. They want someone senior enough to make architectural decisions but practical enough not to disappear into PowerPoint. The advert contains the usual 'fast-paced environment' language but doesn't feel particularly cultish. The tone is fairly grounded and they seem mainly worried about integrating a lot of existing systems rather than building something radically new.
 
-The ideal candidate appears to be somebody who has spent years navigating messy organisations, can talk to both engineers and managers, and isn’t precious about technology choices. They mention AWS repeatedly but the real requirement is systems thinking.
+The ideal candidate appears to be somebody who has spent years navigating messy organisations, can talk to both engineers and managers, and isn't precious about technology choices. They mention AWS repeatedly but the real requirement is systems thinking.
 
-My sense is that this is a relatively ordinary professional environment rather than a startup trying to change the world. Some management-speak is present but not excessive.”
+My sense is that this is a relatively ordinary professional environment rather than a startup trying to change the world. Some management-speak is present but not excessive."
 
-For your summary, create a new .txt file in the summaries folder.
+---
 
-The title of the file should be:
-job title - company.txt
+## Getting the job description
 
-The file MUST start with a header formatted exactly like this:
+Try to read the URL directly. If it works, use that.
 
-Title: Lead Solution Architect
-Company: Civil Service
-URL: https://...
-[Include only if main URL is blocked]
-AI-accessible URLs:
-- https://...
+If the URL is blocked (403, redirect wall, login required, etc.):
+1. Stop and ask me to paste in the job description.
+2. Once I paste it, write your summary based on that text only.
+3. Optionally do a quick web search to fill in any background on the company, but do not let that override what I pasted. The pasted text is the source of truth.
 
-Summary:
-... (Your 2-3 paragraph summary here)
+---
 
-Do not include salary information, as it has already been filtered.
+## Saving the summary
 
-If you cannot read the main URL directly (e.g., if it blocks AIs with a 403 error or fails to load) but you locate the job details elsewhere (e.g., via web search on other sites), you MUST add the "AI-accessible URLs:" field directly below the "URL:" field. Under it, list the URLs or domains you actually used to retrieve the job details, formatted as a bulleted list.
+Create a .txt file in the summaries folder.
 
-Example Header when the main URL is blocked:
-Title: Engineering Manager - Technical Delivery
-Company: Just Group
-URL: https://restless.co.uk/job/...
-AI-accessible URLs:
-- https://www.bebee.com/...
-- https://www.studysmarter.co.uk/...
+Filename: job title - company.txt
+
+The file must follow this exact structure:
+
+Title: [job title]
+Company: [company name]
+URL: [the URL I gave you]
+Original Source: search for "[job title]" "[company name]"
 
 Summary:
-...
+[Your 2-3 paragraph summary]
+
+---
+
+Original text:
+[Paste the full job description text here, exactly as I gave it to you]
+
+---
+
+Notes:
+- Do not include salary information.
+- Keep the summary conversational. That is the point of this whole exercise.
+- The "Original Source" field is just a search hint for future reference, not a verified URL. Write it as a search query, e.g.: search for "Engineering Manager" "Just Group"
+- The "Original text" section goes at the very bottom, after the summary.
