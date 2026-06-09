@@ -1,0 +1,119 @@
+Title: Software Engineering Manager - Technical Delivery
+Company: Just Group
+URL: https://restless.co.uk/job/just-group-remote-engineering-manager-technical-delivery-london-81e66ce4e9c010014c7f1b71f4690000-london/
+Original Source: search for "Software Engineering Manager Technical Delivery" "Just Group"
+
+Summary:
+Just Group is a retirement income specialist—annuities, care plans, that sort of thing. They're firmly in the "we have a purpose" camp ("Be Bold. Be Brilliant. Be Just." is the sign-off, which tells you something about the culture). The actual problem they're solving is pretty mundane: they need a technical manager to keep a .NET/Azure engineering operation running and improving while also driving a reasonably serious modernisation agenda—microservices, event-driven architecture, Kubernetes on Azure. The stack is specific and enterprise-grade, which suggests this is a real role with real complexity rather than aspirational fluff. The "fast-growing" and "most loved retirement expert" language is marketing, not engineering reality.
+
+The tricky bit is the scope. They want someone who stays genuinely close to the code—reviewing, challenging, guiding actual engineering decisions—while simultaneously managing multiple teams (permanent and contractors), owning delivery across large transformation programmes, handling stakeholder comms up and down the organisation, and dealing with technical debt and end-of-life systems. That's a lot for one person. The financial services background requirement is a hard filter, not a preference. Day-to-day you'd be running sprint ceremonies, reviewing architecture, talking to non-technical stakeholders, and negotiating priorities—probably in that order.
+
+The environment feels like a structured, regulated financial services company that is genuinely trying to modernise rather than pretend to. It's not chaotic, it's not a startup, and the "purpose-led" language is corporate rather than cultish. Someone who enjoys untangling real technical complexity within a process-heavy organisation will probably find it interesting. Someone who wants creative freedom or resents the overhead of stakeholder management in a regulated environment will find it grinding.
+
+---
+
+Original text:
+Home Jobs Find a Job  Software Engineering Manager - Technical Delivery
+Software Engineering Manager - Technical Delivery
+Just Group
+Full Time
+London + Work from Home
+Posted 6 days ago
+Apply now
+Just Group
+Categories: Finance Employer website Report this listing
+Share with a friend:     
+Job Description
+Software Engineering Manager - Technical Delivery
+
+Location:London - hybrid 50%
+
+Contract:Permanent
+
+Hours:35 hours
+
+Purpose
+
+This role provides technical leadership rooted in real engineering insight—remaining close to the code to guide design and implementation while upholding high standards in architecture and delivery. Its purpose is to ensure teams build scalable, reliable software that supports business goals.
+
+About Just
+
+We help people achieve a better later life. That's our purpose and it's the reason we exist. We are a fast-growing company helping customers enjoy the retirement they deserve. We do this through a variety of market leading, award-winning products and services, delivered by a diverse team of over 1,400 purpose-led colleagues who genuinely put the customer at the heart of everything we do.
+
+This is a brilliant time to join our business. We are on an exciting growth journey to become the UK's most loved retirement expert.
+
+Key Responsibilities
+
+Leading architecture and design sessions, ensuring solutions are logical, scalable, and aligned with engineering standards.
+
+Drive delivery outcomes, managing sprint execution, resolving technical blockers, and maintaining accountability for quality.
+
+Embed a culture of technical excellence, continuous improvement, and structured problem-solving.
+
+Provide hands-on technical leadership, mentoring engineers, and guiding architecture and system design decisions.
+
+Promote engineering best practices and technical standards across teams.
+
+Manage and develop teams, including permanent and contingent resources, ensuring alignment, engagement, and performance.
+
+Serve as the main point of contact for delivery risks, dependencies, and stakeholder communications, providing clear updates for technical and non-technical audiences.
+
+Manage resource allocation, capacity planning, and prioritisation across multiple teams and deliveries.
+
+Oversee end-of-life systems and technical debt, ensuring timely prioritisation, stakeholder alignment, and delivery of remediation activities.
+
+Identify gaps in current practices and drive initiatives to improve throughput, quality, reliability, and documentation, using metrics and structured problem-solving.
+
+Collaborate with Lead Engineers and Architects to ensure alignment with broader technical direction.
+
+What We're Looking For
+
+Proven experience as a senior engineer, architect or technical lead within financial services.
+
+Strong technical leadership, staying close to the code to review, challenge and guide real engineering solutions
+
+Deep understanding of modern architecture, system design and complex technical problem‑solving
+
+Track record of driving engineering standards, best practices and consistently high technical quality
+
+Team management experience with experience leading multi‑team delivery across major transformation or large‑scale technical programmes
+
+Skilled in Agile delivery with accountability for sprint outcomes, technical quality and effective stakeholder communications
+
+Excellent communication skills, able to translate complex technical concepts for technical and non‑technical audiences.
+
+Technical Skills & Tools
+
+Languages & Frameworks: C# / .NET (Framework & Core), React
+
+Platforms & Infrastructure: Azure, AKS, Docker, Windows Server (on-prem), SQL Server, MongoDB
+
+IAM & App Gateways: Okta, APIM, Apigee
+
+Monitoring & Observability: Dynatrace, Application Insights
+
+CI/CD & DevOps: Azure DevOps Pipelines, SonarCloud, GitHub
+
+Architecture & Patterns: Microservices, Event-Driven Architecture, Domain-Driven Design, Modern Scalable Design Principles
+
+What's in it for you
+
+A competitive salary, pension scheme and life assurance
+
+25 days annual leave plus an additional day on us for your birthday
+
+Private medical cover and income protection, just in case
+
+A generous and highly achievable bonus scheme
+
+Opportunities to progress your career in-role and within the company
+
+Free access to the Headspace app, 24/7 employee assistance helpline and trained physical and mental health first aiders
+
+A variety of employee funded benefits available via our online benefits portal
+
+Plus, several additional purchase options available for you and your loved ones
+
+Explore our full range of benefits on our dedicated benefits page.
+
+Be Bold. Be Brilliant. Be Just.
