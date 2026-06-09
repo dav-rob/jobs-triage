@@ -1,0 +1,10 @@
+Title: ICT Manager
+Company: Stirling Council
+URL: https://restless.co.uk/job/stirling-council-remote-ict-manager-102046-stirling-472386/
+
+Summary:
+This is Stirling Council, the local authority in Scotland responsible for keeping the lights on, collecting bins, running schools, and managing housing in the Stirling area. They've got a massive estate of systems and are trying to modernize their IT infrastructure—shifting to hybrid cloud and SaaS, tightening security with Zero Trust, and theoretically playing around with AI and IoT. In reality, they need someone to herd the cats, manage a public sector IT team, and deliver a strategic technology roadmap without blowing their budgets. The advert has the usual aspirational tech buzzwords about "smart services" and "visionary leadership," but it's grounded by the requirement for enterprise governance frameworks like ITIL and COBIT, which means they want someone who appreciates structure and compliance.
+
+They really want an experienced IT manager who knows how to operate in a highly structured, bureaucratic, and political environment. You'll need to be senior enough to make roadmap decisions and manage budgets, but practical enough to keep everyday public services running smoothly. Day-to-day, you can expect a lot of committee approvals, procurement red tape, and balancing legacy tech with new cloud services. The main perk is a solid public sector package with a good pension and flexible/hybrid working, which suggests they're reasonably grounded about work-life balance, but there's no hiding that decisions will move at local government speed.
+
+If you are a systems thinker, the sheer variety of services the council runs might be a fascinating puzzle. But if you value fast-paced independent thinking, rapid prototyping, or escaping process, you’ll probably find the committee-heavy, risk-averse public sector bureaucracy pretty frustrating.

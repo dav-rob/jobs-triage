@@ -59,3 +59,7 @@ Do not include salary information, I have already filtered for that.
 
 The title of the file should be job title - company.txt
 
+If you cannot read the URL, because it blocks AIs or something similar, but you find the job elsewhere then add another field below the URL field:
+
+AI-accessible URL: 
+

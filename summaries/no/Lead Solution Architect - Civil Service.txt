@@ -1,0 +1,9 @@
+Title: Lead Solution Architect
+Company: Civil Service
+URL: https://restless.co.uk/job/civil-service-lead-solution-architect-cardiff-461300/
+
+Summary:
+
+This looks like a senior, heavyweight role within HM Revenue and Customs (HMRC), which is the massive UK government department responsible for collecting taxes. They are trying to modernise their gigantic digital estate by standardising their customer relationship management (CRM) systems around big-name platforms like Salesforce, Dynamics, or Pegasystems. The day-to-day reality is going to be less about getting your hands dirty with code and much more about dealing with architecture boards, steering committees, and standardising governance across a highly matrixed organisation. It's Grade 6, which is high up in the Civil Service food chain, so expect a heavy dose of corporate theatre, structured competency frameworks, and navigating complex stakeholder relationships rather than building things from scratch.
+
+They want a seasoned architectural diplomat who can translate complex technical designs into business cases for senior non-technical managers, while also steering teams of solution architects. You'll need deep familiarity with major enterprise CRM platforms, commercial costing awareness, and the stamina to handle a slow-moving, process-heavy bureaucracy. The advert is packed with typical civil service jargon like Success Profiles, CDIO, and GDAD capability allowances, which signals a highly structured, rule-bound culture. The environment feels deeply political and process-driven. A systems thinker who understands how to steer large, complex organisations will find the scale of the challenge interesting, but someone who values fast decisions, absolute autonomy, and hates endless meetings will likely end up frustrated.
